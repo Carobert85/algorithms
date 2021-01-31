@@ -1,2 +1,3 @@
 # algorithms
-A repository for jupyter notebooks related to my algorithms course and for articles I write on tds
+A repository for jupyter notebooks related to algorithm articles I've written for tds
+
